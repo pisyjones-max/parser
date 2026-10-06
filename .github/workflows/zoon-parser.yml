@@ -1,0 +1,57 @@
+name: Zoon parser
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Максимум страниц на категорию (0 = без лимита)"
+        required: false
+        default: "0"
+      max_companies:
+        description: "Максимум компаний за запуск (0 = без лимита)"
+        required: false
+        default: "0"
+      commit_data:
+        description: "Записать companies.json обратно в репозиторий"
+        required: false
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Run parser
+        env:
+          MAX_PAGES: ${{ inputs.max_pages }}
+          MAX_COMPANIES: ${{ inputs.max_companies }}
+        run: |
+          python parser/zoon_parser.py --max-pages "$MAX_PAGES" --max-companies "$MAX_COMPANIES"
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: zoon-companies
+          path: data/companies.json
+          if-no-files-found: error
+      - name: Commit JSON
+        if: ${{ inputs.commit_data }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/companies.json
+          git diff --cached --quiet || git commit -m "Update Zoon companies data"
+          git push
