@@ -1,0 +1,10 @@
+{
+ "step": "variants",
+ "method": "GET",
+ "url": "https://mc.yandex.ru/watch/19069582?wmode=7&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.89%2F1-1-0%2Frender.html&page-ref=https%3A%2F%2Fuslugi.yandex.ru%2F&charset=utf-8&cnt-class=1&uah=chu%0A%22Chromium%22%3Bv%3D%22140%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224%22%2C%22HeadlessChrome%22%3Bv%3D%22140%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A140.0.7339.16%0Achl%0A%22Chromium%22%3Bv%3D%22140.0.7339.16%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224.0.0.0%22%2C%22HeadlessChrome%22%3Bv%3D%22140.0.7339.16%22%0Achm%0A%3F0%0Achp%0ALinux%0Achv%0A6.8.0&hittoken=1791397019_383a351f466fe8eea3321652546971431d6ca1c6e36f4f88c9a06f9e27eb0811&browser-info=pv%3A1%3Aar%3A1%3Avf%3A2laauyzxc0t55gsbpz1ribpfvuysv3%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A2660%3Acn%3A1%3Adp%3A1%3Als%3A1140679982886%3Ahid%3A96064664%3Aphid%3A473164841%3Az%3A180%3Ai%3A20261007211659%3Aet%3A1791397020%3Ac%3A1%3Arn%3A359155121%3Arqn%3A14%3Au%3A1791396975797268556%3Aw%3A613x150%3As%3A1440x1000x24%3Ask%3A1%3Aifr%3A1%3Awv%3A2%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1791397019670%3Arqnl%3A1%3Ast%3A1791397020%3At%3A&t=mc(p-1-h-1)clc(0-0-0)rqnt(2)aw(1)rcm(0)cdl(na)eco(2179136)w2s(0)ti(1)",
+ "status": 200,
+ "post": null,
+ "has_workers": false,
+ "len": 775,
+ "body": "{\"settings\":{\"auto_goals\":1,\"button_goals\":0,\"c_recp\":\"1.00000\",\"form_goals\":0,\"pcs\":\"0\",\"webvisor\":{\"ad_recp\":\"1.00000\",\"date\":\"2025-09-15 15:37:34\",\"forms\":1,\"recp\":\"1.00000\"},\"sbp\": {\"a\":\"0XFvaNmkcRDQhLSsHvRX9uJzxlSHur6moIRhxL9BC2jTlWW6rwHnwFoDkfhaOvj1\", \"b\":\"jFoBqEvqrMe1QFuGJrJfP/bcZzy1o0IX5yYxtAQnO1+E4Nrupk4/SuDEFRnBiJD2\"},\"eu\":0,\"region\":\"RU\",\"hittoken\":\"1791397019_383a351f466fe8eea3321652546971431d6ca1c6e36f4f88c9a06f9e27eb0811\",\"cf\":1,\"mcf\":1,\"mdd\":\"https://hdrc.yandex.net\",\"mdde\":\"https://mdd.yandex.net\",\"wstoken\":\"11177.Sdm15sjrR882G-cAEYfmGyktZ6dDhKVlVbiniRGD2wPDXK4G0VGmrP3r4c04_e6EiQm7GysOlEpcicU8KeSwMg2KZxBt7EmJOVbfs4hytUg,.6NcX2JK35d3O3vPpTRIuB0wKpBo,\",\"ev\":{\"pvt\":1791397019},\"hidv2\":\"5906057086702191029\",\"ymclid\":\"5906057086702191029\"},\"userData\":{}}"
+}

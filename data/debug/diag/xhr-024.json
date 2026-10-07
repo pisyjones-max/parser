@@ -1,0 +1,10 @@
+{
+ "step": "click-more",
+ "method": "GET",
+ "url": "https://yandex.ru/messenger/api/unread_count?parentOrigin=https%3A%2F%2Fuslugi.yandex.ru&rn=952459&reqNum=1&serviceId=1",
+ "status": 200,
+ "post": null,
+ "has_workers": false,
+ "len": 11,
+ "body": "{\"Ttl\":401}"
+}

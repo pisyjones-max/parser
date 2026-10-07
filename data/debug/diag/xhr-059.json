@@ -1,0 +1,10 @@
+{
+ "step": "variants",
+ "method": "POST",
+ "url": "https://uslugi.yandex.ru/api/get_my_orders_feed",
+ "status": 200,
+ "post": "{\"data\":{\"params\":{\"offset\":0,\"limit\":10}}}",
+ "has_workers": false,
+ "len": 114,
+ "body": "{\"items\":{},\"response\":{\"status\":\"ok\"},\"meta\":{},\"pagesCount\":0,\"unreadReactionsCount\":0,\"customerBottlesTotal\":0}"
+}

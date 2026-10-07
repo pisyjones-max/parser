@@ -1,0 +1,10 @@
+{
+ "step": "scroll",
+ "method": "GET",
+ "url": "https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2Fuslugi.yandex.ru%2F119737-rechitsy%2Fcategory%2Fremont-i-stroitelstvo%2Fzaboryi-i-ograzhdeniya--1562%3Fp%3D0&page-ref&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Avf%3Ajeu2ees5yibfy9j2whppqcz54tcee7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A2660%3Acn%3A1%3Adp%3A0%3Als%3A903425971758%3Ahid%3A827423526%3Az%3A180%3Ai%3A20261007211613%3Aet%3A1791396974%3Ac%3A1%3Arn%3A55301008%3Arqn%3A3%3Au%3A1791396974205101590%3Aw%3A1440x1000%3As%3A1440x1000x24%3Ask%3A1%3Awv%3A2%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1791396970329%3Ast%3A1791396974&t=mc%28g-2-p-1%29clc%280-0-0%29rqnt%283%29aw%281%29rcm%281%29yu%281633723021791396970%29cdl%28na%29eco%2865536%29ti%281%29",
+ "status": 200,
+ "post": null,
+ "has_workers": false,
+ "len": 595,
+ "body": "{\"settings\":{\"sbp\": {\"a\":\"3cL8UdV75OjL4kneSMF1tOZQWRDMZVcuX/dH1mLrXFe0aGX79iK/+b3Ofbvdg/jD\", \"b\":\"J99RsktBaMrlOwyuqW+GZJ04tg79yhpw+L7hoAlZGHtvrJiUx/vhGWwFduX626V2\"},\"eu\":0,\"region\":\"RU\",\"hittoken\":\"1791396973_9009a15d659e72f3954f08cef1be75fe317ada7a1967129cf2735433d96e0fe7\",\"mdd\":\"https://hdrc.yandex.net\",\"mdde\":\"https://mdd.yandex.net\",\"wstoken\":\"11177.JfX6QqcDx-qcJKfAikNmUqoBjCGfKzi2xCzXbRwFWrwqa7Fwv86vXijPW-Ho3GiZD5_PqYPlDaNAX2hUikCm3EaxrCnXSbGHkRlbtbsN71Q,.JO_gqqFs4IMbuM282goYxh0w_BU,\",\"ev\":{\"pvt\":1791396973},\"hidv2\":\"5906045002814587183\",\"ymclid\":\"5906045002814587183\"},\"userData\":{}}"
+}

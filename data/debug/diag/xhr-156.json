@@ -1,0 +1,10 @@
+{
+ "step": "variants",
+ "method": "GET",
+ "url": "https://mc.yandex.ru/watch/19069582?wmode=7&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.89%2F1-1-0%2Frender.html&page-ref=https%3A%2F%2Fuslugi.yandex.ru%2F&nohit=1&charset=utf-8&cnt-class=1&uah=chu%0A%22Chromium%22%3Bv%3D%22140%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224%22%2C%22HeadlessChrome%22%3Bv%3D%22140%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A140.0.7339.16%0Achl%0A%22Chromium%22%3Bv%3D%22140.0.7339.16%22%2C%22Not%3DA%3FBrand%22%3Bv%3D%2224.0.0.0%22%2C%22HeadlessChrome%22%3Bv%3D%22140.0.7339.16%22%0Achm%0A%3F0%0Achp%0ALinux%0Achv%0A6.8.0&browser-info=pv%3A1%3Avf%3A2laauyzxc0t55gsbpz1ribpfvuysv3%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A2660%3Acn%3A1%3Adp%3A0%3Als%3A1140679982886%3Ahid%3A98130182%3Az%3A180%3Ai%3A20261007211722%3Aet%3A1791397043%3Ac%3A1%3Arn%3A1025890005%3Au%3A1791396975797268556%3Aw%3A613x150%3As%3A1440x1000x24%3Ask%3A1%3Aifr%3A1%3Awv%3A2%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1791397042861%3Arqnl%3A1%3Ast%3A1791397043%3At%3A&t=clc(0-0-0)aw(1)rcm(0)cdl(na)eco(2179136)ti(1)",
+ "status": 200,
+ "post": null,
+ "has_workers": false,
+ "len": 775,
+ "body": "{\"settings\":{\"auto_goals\":1,\"button_goals\":0,\"c_recp\":\"1.00000\",\"form_goals\":0,\"pcs\":\"0\",\"webvisor\":{\"ad_recp\":\"1.00000\",\"date\":\"2025-09-15 15:37:34\",\"forms\":1,\"recp\":\"1.00000\"},\"sbp\": {\"a\":\"P2/B45+xlpwEpO79DtWyxPItEJOW62ZHgkPxCokJxQnY5+aG+mq4hlkFd0AIXw52\", \"b\":\"ZzS/7sIqoQMNfQbdpopcqXxQIhy4o+7JiM9vhnVIMaOhXKT0WE3Qdp8rxrSqeOsd\"},\"eu\":0,\"region\":\"RU\",\"hittoken\":\"1791397042_3713956cd93b6bbfcde2baab80083ce6f353a994a3b25b13b5c62f233a4e9393\",\"cf\":1,\"mcf\":1,\"mdd\":\"https://hdrc.yandex.net\",\"mdde\":\"https://mdd.yandex.net\",\"wstoken\":\"11177.6yBy4aBO9oNHGjPghX5rLU7pa15vTKmo_2wgP6xF0byKJ-QvgXbL32GL7gXD14du2Aq1iELbrYEND_4-AtEXcILewLFr9GfMekuzoFFBm4Y,.gj7aOAIijKFuvA_O9oM4MMYUn5c,\",\"ev\":{\"pvt\":1791397042},\"hidv2\":\"5906063157856567478\",\"ymclid\":\"5906063157856567478\"},\"userData\":{}}"
+}
