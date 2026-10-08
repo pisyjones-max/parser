@@ -1,0 +1,1257 @@
+{
+ "task1_pagination_by_p": {
+  "0": {
+   "p": 0,
+   "perPage": 10,
+   "totalItems": 180
+  },
+  "5": {
+   "p": 5,
+   "perPage": 10,
+   "totalItems": 1080
+  },
+  "11": {
+   "p": 11,
+   "perPage": 10,
+   "totalItems": 1799
+  },
+  "17": {
+   "p": 17,
+   "perPage": 10,
+   "totalItems": 0
+  },
+  "18": {
+   "p": 18,
+   "perPage": 10,
+   "totalItems": 5
+  },
+  "30": {
+   "p": 30,
+   "perPage": 10,
+   "totalItems": 5
+  }
+ },
+ "pass1_unique": 96,
+ "pass2_unique": 100,
+ "pass2_new_vs_pass1": 14,
+ "union_unique": 110,
+ "advertised_unique": 3,
+ "organic_unique_union": 107,
+ "pages_with_zero_workers": [
+  9,
+  13,
+  14,
+  17,
+  18,
+  9,
+  12,
+  13,
+  14,
+  16,
+  19,
+  20
+ ],
+ "rows_pass1": [
+  {
+   "p": 0,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "295c1773-5b8a-483e-85f0-6123523fcca3",
+    "fe60a1ad-22ea-4acb-9dc0-8303cd6571e7",
+    "4915b4aa-be48-437f-a6a2-d02083831377",
+    "8f0969cb-a8c8-48b7-b5c6-061171e65943",
+    "91f9a698-e8aa-47f0-9f7c-155208806ad0",
+    "e162f83c-8c9d-4783-b026-565800b5ca13",
+    "b1d95ac0-584d-4b26-8820-44b68c827798",
+    "01e1ced8-9a88-46ee-b818-86bbbb096482",
+    "6f3e7453-abe6-4f17-a3c8-b6dc5a42b8b7",
+    "7c202466-39d3-4a00-b6cf-2cc8bf28f9c2"
+   ],
+   "advertised": [
+    "295c1773-5b8a-483e-85f0-6123523fcca3",
+    "fe60a1ad-22ea-4acb-9dc0-8303cd6571e7",
+    "4915b4aa-be48-437f-a6a2-d02083831377"
+   ],
+   "pagination": {
+    "p": 0,
+    "perPage": 10,
+    "totalItems": 180
+   },
+   "pager_links": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "single_search_result_id": "295c1773-5b8a-483e-85f0-6123523fcca3",
+   "new_in_pass": 10,
+   "new_vs_previous_passes": 10,
+   "cum_unique": 10
+  },
+  {
+   "p": 1,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "31c4add2-4f67-4c0e-b8f8-991f1495e405",
+    "a9065190-1add-4247-8660-628cd973b366",
+    "96fa119b-dd6f-4394-8584-f856c69ef17d",
+    "7c202466-39d3-4a00-b6cf-2cc8bf28f9c2",
+    "ea51b365-09b1-46ae-951d-5d342f4c1efe",
+    "04552a5a-0cbe-4a02-b1d4-b00b443fcfe3",
+    "7c080309-6e43-4aa2-92c3-6947fe61482f",
+    "9a5232a8-4e86-4ec7-be50-705f83ecc5e0",
+    "426697da-8dff-44b0-a1ed-91756014c3fb",
+    "308c97b8-faa7-4658-adeb-5d0be77fdada"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 1,
+    "perPage": 10,
+    "totalItems": 360
+   },
+   "pager_links": [
+    2,
+    3,
+    4
+   ],
+   "single_search_result_id": "31c4add2-4f67-4c0e-b8f8-991f1495e405",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 9,
+   "cum_unique": 19
+  },
+  {
+   "p": 2,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "81ea9428-ed0d-4f32-9e80-0a99c951b895",
+    "cdee0d37-e64e-49ee-b73d-f6b6392d0fdf",
+    "ed82966b-85c5-4636-b520-49b32cecc157",
+    "7c080309-6e43-4aa2-92c3-6947fe61482f",
+    "09f939a7-cef5-455a-9bab-c76b57ce6c5e",
+    "3ae44ec0-4efd-4807-bdd0-3cc697de4d41",
+    "cb7b9c2d-8ddd-407f-b384-96e462b3433c",
+    "a47b9bfb-f1fe-478f-b70e-960582857be9",
+    "bb8a0f5b-a21b-4788-893d-cb4347bd754e",
+    "f2739a68-0d57-41ce-9376-cee50da8c725"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 2,
+    "perPage": 10,
+    "totalItems": 540
+   },
+   "pager_links": [
+    1,
+    3,
+    4
+   ],
+   "single_search_result_id": "81ea9428-ed0d-4f32-9e80-0a99c951b895",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 9,
+   "cum_unique": 28
+  },
+  {
+   "p": 3,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "e98af63a-b550-4ba7-ba03-7f4bb7e46e13",
+    "c65b8c38-8a83-4b63-86ca-c7a4914b365f",
+    "1dabc9b2-4d9c-415b-b5e4-8dfbd02724a2",
+    "81ea9428-ed0d-4f32-9e80-0a99c951b895",
+    "6681ed2c-9ba6-4a07-84b0-6ee77331b5aa",
+    "1c99a0b6-6459-4e4b-ac60-b1ea12c09c25",
+    "222d219a-ba94-403d-8415-5862c15a749c",
+    "ef470542-b335-4c9e-8d11-b8f5d9f4e5d3",
+    "37a23588-ee55-4cef-8df7-bc39bf55940d",
+    "3d1d2123-7bad-425e-90c0-76254b330162"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 3,
+    "perPage": 10,
+    "totalItems": 720
+   },
+   "pager_links": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "single_search_result_id": "e98af63a-b550-4ba7-ba03-7f4bb7e46e13",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 9,
+   "cum_unique": 37
+  },
+  {
+   "p": 4,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "aef5ce04-6e56-411b-b851-77011457f0a1",
+    "577de8e8-4bdf-4934-b7c7-408db3e8f621",
+    "c1ae4b9e-e72c-4195-8e46-bd49a2288277",
+    "52b1094b-40ac-4b26-b1d9-26aa2c2fd252",
+    "2b3384d8-240f-40e9-a694-c7fd7cb1983c",
+    "064845d3-55ab-4cff-a4d7-8606f14760b0",
+    "14d9a301-14e4-456c-b06f-f672b1071baf",
+    "2a6a7aa1-b285-4ea4-90ab-4a17e509905b",
+    "12337ae0-3c9b-4abf-8e7c-64ab0aeb9af4",
+    "7b0e06d6-5c57-48f6-9248-2d9f710a5729"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 4,
+    "perPage": 10,
+    "totalItems": 900
+   },
+   "pager_links": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "single_search_result_id": "aef5ce04-6e56-411b-b851-77011457f0a1",
+   "new_in_pass": 10,
+   "new_vs_previous_passes": 10,
+   "cum_unique": 47
+  },
+  {
+   "p": 5,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "a593a479-7285-46be-ae21-4de2843f02c6",
+    "315f3249-129b-4af9-80f4-c65044e0bb97",
+    "ef656363-06bd-4edb-9822-2ccc29e00d28",
+    "9f93b2e0-0697-4395-af6d-208be260b527",
+    "7b0e06d6-5c57-48f6-9248-2d9f710a5729",
+    "ab04aa1a-a789-4a55-9aa0-77c1a7b0efa6",
+    "53169ef3-f146-4b09-88dc-3d6a2458ff3e",
+    "cf3ddce4-38a5-435f-ad4e-198096a59a7c",
+    "fc7d4706-4988-4b79-9783-97b66e9be189",
+    "0ab41eb2-88cc-4e9f-98d2-d9df3ebaa9ba"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 5,
+    "perPage": 10,
+    "totalItems": 1080
+   },
+   "pager_links": [
+    3,
+    4,
+    6,
+    7
+   ],
+   "single_search_result_id": "a593a479-7285-46be-ae21-4de2843f02c6",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 9,
+   "cum_unique": 56
+  },
+  {
+   "p": 6,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "0be3f3ba-6010-4dd9-83dc-9d0836e3a462",
+    "82c346ac-1cd3-46ce-b297-33275b028570",
+    "75eea70d-8bb4-4b16-864b-f521995c6ee6",
+    "0ab41eb2-88cc-4e9f-98d2-d9df3ebaa9ba",
+    "cc07d544-65ae-4148-b8f9-ae46958ae90a",
+    "ef656363-06bd-4edb-9822-2ccc29e00d28",
+    "6889c6f5-4495-4f74-8bbc-4712f6fbb1b5",
+    "3c2a8e1a-feea-437c-8f0a-9fe1d7a17ccf",
+    "0a5abbbb-8a2e-41d1-9ff5-6f74b4b57d88",
+    "295a3bab-f05f-41e1-a7c0-178ce5a4e820"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 6,
+    "perPage": 10,
+    "totalItems": 1260
+   },
+   "pager_links": [
+    4,
+    5,
+    7,
+    8
+   ],
+   "single_search_result_id": "0be3f3ba-6010-4dd9-83dc-9d0836e3a462",
+   "new_in_pass": 8,
+   "new_vs_previous_passes": 8,
+   "cum_unique": 64
+  },
+  {
+   "p": 7,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "1004ddbd-f505-4a43-a7e6-034058322b8c",
+    "4c6a6536-5e93-4092-a1a6-7a4d872586dd",
+    "1cc646c9-a03f-4930-ac60-31823071c935",
+    "a593a479-7285-46be-ae21-4de2843f02c6",
+    "9dd9f0e4-33fe-4584-b6bd-e5be203017cc",
+    "43e4bbeb-9243-4204-8f62-10387ae89dec",
+    "cf3ddce4-38a5-435f-ad4e-198096a59a7c",
+    "58396a0d-a041-4de9-ad24-491e50bbd504",
+    "3a4eb50d-a601-41c6-9b6a-04cdc2ed40f1",
+    "3c0f43a7-d0c4-4dd5-9a44-6bdb3a09cb71"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 7,
+    "perPage": 10,
+    "totalItems": 1439
+   },
+   "pager_links": [
+    5,
+    6,
+    8,
+    9
+   ],
+   "single_search_result_id": "1004ddbd-f505-4a43-a7e6-034058322b8c",
+   "new_in_pass": 8,
+   "new_vs_previous_passes": 8,
+   "cum_unique": 72
+  },
+  {
+   "p": 8,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "28642893-682d-40c0-856a-513687a7c6c7",
+    "26480b10-33d2-4d2f-9ea6-c9610c29a8f3",
+    "aed6eb2c-ea0a-4c6f-b4d8-eec8441c8b55",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "df61cae8-ab6f-48ca-b484-2767ae218515",
+    "82c346ac-1cd3-46ce-b297-33275b028570",
+    "1ce5793b-52b1-4313-9e4b-ef3c6237b7fe",
+    "9db8118e-76e9-4956-a44e-ff62559e7337",
+    "9e07cce4-fef9-4c36-a288-dd3c3c6051be",
+    "1cc646c9-a03f-4930-ac60-31823071c935"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 8,
+    "perPage": 10,
+    "totalItems": 1619
+   },
+   "pager_links": [
+    6,
+    7,
+    9
+   ],
+   "single_search_result_id": "28642893-682d-40c0-856a-513687a7c6c7",
+   "new_in_pass": 8,
+   "new_vs_previous_passes": 8,
+   "cum_unique": 80
+  },
+  {
+   "p": 9,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 9,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 80
+  },
+  {
+   "p": 10,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "4994d637-68d3-497d-9416-eeaba4e847bc",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "779a8fcf-78eb-4f68-a42e-074e4a7e7e52",
+    "0cf0933b-03c5-4a5c-b299-e8081ddddbe4",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "b77c8e20-0211-4e1f-8c43-930700bcc841"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 10,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [
+    8,
+    9
+   ],
+   "single_search_result_id": "4994d637-68d3-497d-9416-eeaba4e847bc",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 9,
+   "cum_unique": 89
+  },
+  {
+   "p": 11,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "29df8610-d387-4f89-ba68-816263702fe4",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "08e04db4-393b-4b6b-8ac9-b04ebd247392",
+    "6a6b0c6e-f59c-4c79-a7cc-fdbae04493eb",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "875f11bb-d377-4846-93a8-9ed944ec0928"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 11,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [
+    9
+   ],
+   "single_search_result_id": "29df8610-d387-4f89-ba68-816263702fe4",
+   "new_in_pass": 4,
+   "new_vs_previous_passes": 4,
+   "cum_unique": 93
+  },
+  {
+   "p": 12,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "805d67d4-8046-4979-964b-ea433ec13832",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "4994d637-68d3-497d-9416-eeaba4e847bc",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "779a8fcf-78eb-4f68-a42e-074e4a7e7e52"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 12,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "13d6507f-9375-4b91-b54d-602d34363f68",
+   "new_in_pass": 2,
+   "new_vs_previous_passes": 2,
+   "cum_unique": 95
+  },
+  {
+   "p": 13,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 13,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 95
+  },
+  {
+   "p": 14,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 14,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 95
+  },
+  {
+   "p": 15,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "b77c8e20-0211-4e1f-8c43-930700bcc841",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "0cf0933b-03c5-4a5c-b299-e8081ddddbe4",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "81453eba-899e-46b3-a428-120923eb390a",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 15,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "b77c8e20-0211-4e1f-8c43-930700bcc841",
+   "new_in_pass": 1,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 96
+  },
+  {
+   "p": 16,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "0cf0933b-03c5-4a5c-b299-e8081ddddbe4",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "805d67d4-8046-4979-964b-ea433ec13832"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 16,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 96
+  },
+  {
+   "p": 17,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 17,
+    "perPage": 10,
+    "totalItems": 0
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 96
+  },
+  {
+   "p": 18,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 18,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 96
+  },
+  {
+   "p": 19,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "4994d637-68d3-497d-9416-eeaba4e847bc",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "aed6eb2c-ea0a-4c6f-b4d8-eec8441c8b55",
+    "805d67d4-8046-4979-964b-ea433ec13832",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "b77c8e20-0211-4e1f-8c43-930700bcc841"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 19,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "4994d637-68d3-497d-9416-eeaba4e847bc",
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 96
+  },
+  {
+   "p": 20,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "779a8fcf-78eb-4f68-a42e-074e4a7e7e52",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "aed6eb2c-ea0a-4c6f-b4d8-eec8441c8b55",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "4994d637-68d3-497d-9416-eeaba4e847bc"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 20,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "779a8fcf-78eb-4f68-a42e-074e4a7e7e52",
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 96
+  }
+ ],
+ "rows_pass2": [
+  {
+   "p": 0,
+   "http": 200,
+   "n": 11,
+   "ids": [
+    "fe60a1ad-22ea-4acb-9dc0-8303cd6571e7",
+    "295c1773-5b8a-483e-85f0-6123523fcca3",
+    "4915b4aa-be48-437f-a6a2-d02083831377",
+    "8f0969cb-a8c8-48b7-b5c6-061171e65943",
+    "91f9a698-e8aa-47f0-9f7c-155208806ad0",
+    "b1d95ac0-584d-4b26-8820-44b68c827798",
+    "01e1ced8-9a88-46ee-b818-86bbbb096482",
+    "e162f83c-8c9d-4783-b026-565800b5ca13",
+    "96fa119b-dd6f-4394-8584-f856c69ef17d",
+    "7c202466-39d3-4a00-b6cf-2cc8bf28f9c2",
+    "2122c2fe-86fd-4f00-9fed-c0b59fb3a20f"
+   ],
+   "advertised": [
+    "fe60a1ad-22ea-4acb-9dc0-8303cd6571e7",
+    "295c1773-5b8a-483e-85f0-6123523fcca3",
+    "4915b4aa-be48-437f-a6a2-d02083831377"
+   ],
+   "pagination": {
+    "p": 0,
+    "perPage": 10,
+    "totalItems": 180
+   },
+   "pager_links": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "single_search_result_id": "fe60a1ad-22ea-4acb-9dc0-8303cd6571e7",
+   "new_in_pass": 11,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 11
+  },
+  {
+   "p": 1,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "308c97b8-faa7-4658-adeb-5d0be77fdada",
+    "31c4add2-4f67-4c0e-b8f8-991f1495e405",
+    "7c202466-39d3-4a00-b6cf-2cc8bf28f9c2",
+    "15c13974-c4d0-40cf-9a2a-e4403a9fd765",
+    "04552a5a-0cbe-4a02-b1d4-b00b443fcfe3",
+    "ea51b365-09b1-46ae-951d-5d342f4c1efe",
+    "7c080309-6e43-4aa2-92c3-6947fe61482f",
+    "9a5232a8-4e86-4ec7-be50-705f83ecc5e0",
+    "a9065190-1add-4247-8660-628cd973b366",
+    "426697da-8dff-44b0-a1ed-91756014c3fb"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 1,
+    "perPage": 10,
+    "totalItems": 360
+   },
+   "pager_links": [
+    2,
+    3,
+    4
+   ],
+   "single_search_result_id": "308c97b8-faa7-4658-adeb-5d0be77fdada",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 20
+  },
+  {
+   "p": 2,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "09f939a7-cef5-455a-9bab-c76b57ce6c5e",
+    "cdee0d37-e64e-49ee-b73d-f6b6392d0fdf",
+    "ed82966b-85c5-4636-b520-49b32cecc157",
+    "a47b9bfb-f1fe-478f-b70e-960582857be9",
+    "3ae44ec0-4efd-4807-bdd0-3cc697de4d41",
+    "f2739a68-0d57-41ce-9376-cee50da8c725",
+    "81ea9428-ed0d-4f32-9e80-0a99c951b895",
+    "cb7b9c2d-8ddd-407f-b384-96e462b3433c",
+    "fd302ba9-2fa8-4b00-b241-a9de0d35c072",
+    "01f2fd24-9ce3-4d49-bc0d-97a2fbfa1a81"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 2,
+    "perPage": 10,
+    "totalItems": 540
+   },
+   "pager_links": [
+    1,
+    3,
+    4
+   ],
+   "single_search_result_id": "09f939a7-cef5-455a-9bab-c76b57ce6c5e",
+   "new_in_pass": 10,
+   "new_vs_previous_passes": 2,
+   "cum_unique": 30
+  },
+  {
+   "p": 3,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "222d219a-ba94-403d-8415-5862c15a749c",
+    "c65b8c38-8a83-4b63-86ca-c7a4914b365f",
+    "ef470542-b335-4c9e-8d11-b8f5d9f4e5d3",
+    "6681ed2c-9ba6-4a07-84b0-6ee77331b5aa",
+    "3ae44ec0-4efd-4807-bdd0-3cc697de4d41",
+    "1c99a0b6-6459-4e4b-ac60-b1ea12c09c25",
+    "2a6a7aa1-b285-4ea4-90ab-4a17e509905b",
+    "1dabc9b2-4d9c-415b-b5e4-8dfbd02724a2",
+    "37a23588-ee55-4cef-8df7-bc39bf55940d",
+    "3d1d2123-7bad-425e-90c0-76254b330162"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 3,
+    "perPage": 10,
+    "totalItems": 720
+   },
+   "pager_links": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "single_search_result_id": "222d219a-ba94-403d-8415-5862c15a749c",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 39
+  },
+  {
+   "p": 4,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "52b1094b-40ac-4b26-b1d9-26aa2c2fd252",
+    "064845d3-55ab-4cff-a4d7-8606f14760b0",
+    "c1ae4b9e-e72c-4195-8e46-bd49a2288277",
+    "2a6a7aa1-b285-4ea4-90ab-4a17e509905b",
+    "14d9a301-14e4-456c-b06f-f672b1071baf",
+    "53169ef3-f146-4b09-88dc-3d6a2458ff3e",
+    "2b3384d8-240f-40e9-a694-c7fd7cb1983c",
+    "577de8e8-4bdf-4934-b7c7-408db3e8f621",
+    "12337ae0-3c9b-4abf-8e7c-64ab0aeb9af4",
+    "aef5ce04-6e56-411b-b851-77011457f0a1"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 4,
+    "perPage": 10,
+    "totalItems": 900
+   },
+   "pager_links": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "single_search_result_id": "52b1094b-40ac-4b26-b1d9-26aa2c2fd252",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 48
+  },
+  {
+   "p": 5,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "cf3ddce4-38a5-435f-ad4e-198096a59a7c",
+    "c28259a9-872e-439c-acb0-87c1a1569ed6",
+    "cc07d544-65ae-4148-b8f9-ae46958ae90a",
+    "720ec609-1144-4d6c-86b8-72c927daf59d",
+    "0ab41eb2-88cc-4e9f-98d2-d9df3ebaa9ba",
+    "315f3249-129b-4af9-80f4-c65044e0bb97",
+    "ab04aa1a-a789-4a55-9aa0-77c1a7b0efa6",
+    "7b0e06d6-5c57-48f6-9248-2d9f710a5729",
+    "6889c6f5-4495-4f74-8bbc-4712f6fbb1b5",
+    "fc7d4706-4988-4b79-9783-97b66e9be189"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 5,
+    "perPage": 10,
+    "totalItems": 1080
+   },
+   "pager_links": [
+    3,
+    4,
+    6,
+    7
+   ],
+   "single_search_result_id": "cf3ddce4-38a5-435f-ad4e-198096a59a7c",
+   "new_in_pass": 10,
+   "new_vs_previous_passes": 2,
+   "cum_unique": 58
+  },
+  {
+   "p": 6,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "75eea70d-8bb4-4b16-864b-f521995c6ee6",
+    "cc07d544-65ae-4148-b8f9-ae46958ae90a",
+    "43e4bbeb-9243-4204-8f62-10387ae89dec",
+    "ab04aa1a-a789-4a55-9aa0-77c1a7b0efa6",
+    "0be3f3ba-6010-4dd9-83dc-9d0836e3a462",
+    "3c2a8e1a-feea-437c-8f0a-9fe1d7a17ccf",
+    "8b36d646-4ebd-45a5-adbc-e1786d5ba56a",
+    "0a5abbbb-8a2e-41d1-9ff5-6f74b4b57d88",
+    "295a3bab-f05f-41e1-a7c0-178ce5a4e820",
+    "3eae2825-16be-441f-b28b-55bff5fa9eb2"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 6,
+    "perPage": 10,
+    "totalItems": 1260
+   },
+   "pager_links": [
+    4,
+    5,
+    7,
+    8
+   ],
+   "single_search_result_id": "75eea70d-8bb4-4b16-864b-f521995c6ee6",
+   "new_in_pass": 8,
+   "new_vs_previous_passes": 2,
+   "cum_unique": 66
+  },
+  {
+   "p": 7,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "26480b10-33d2-4d2f-9ea6-c9610c29a8f3",
+    "3c0f43a7-d0c4-4dd5-9a44-6bdb3a09cb71",
+    "ef656363-06bd-4edb-9822-2ccc29e00d28",
+    "58396a0d-a041-4de9-ad24-491e50bbd504",
+    "d78942f3-9502-4239-a040-67638652fa1e",
+    "9dd9f0e4-33fe-4584-b6bd-e5be203017cc",
+    "43e4bbeb-9243-4204-8f62-10387ae89dec",
+    "4c6a6536-5e93-4092-a1a6-7a4d872586dd",
+    "3eae2825-16be-441f-b28b-55bff5fa9eb2",
+    "cc07d544-65ae-4148-b8f9-ae46958ae90a"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 7,
+    "perPage": 10,
+    "totalItems": 1439
+   },
+   "pager_links": [
+    5,
+    6,
+    8,
+    9
+   ],
+   "single_search_result_id": "26480b10-33d2-4d2f-9ea6-c9610c29a8f3",
+   "new_in_pass": 7,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 73
+  },
+  {
+   "p": 8,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "1cc646c9-a03f-4930-ac60-31823071c935",
+    "9e07cce4-fef9-4c36-a288-dd3c3c6051be",
+    "28642893-682d-40c0-856a-513687a7c6c7",
+    "26480b10-33d2-4d2f-9ea6-c9610c29a8f3",
+    "9e10f7fe-84df-49d1-bbf9-bc3c21ea52b4",
+    "1ce5793b-52b1-4313-9e4b-ef3c6237b7fe",
+    "3a4eb50d-a601-41c6-9b6a-04cdc2ed40f1",
+    "9db8118e-76e9-4956-a44e-ff62559e7337",
+    "df61cae8-ab6f-48ca-b484-2767ae218515",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 8,
+    "perPage": 10,
+    "totalItems": 1619
+   },
+   "pager_links": [
+    6,
+    7,
+    9
+   ],
+   "single_search_result_id": "1cc646c9-a03f-4930-ac60-31823071c935",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 82
+  },
+  {
+   "p": 9,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 9,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 82
+  },
+  {
+   "p": 10,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "b77c8e20-0211-4e1f-8c43-930700bcc841",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "0cf0933b-03c5-4a5c-b299-e8081ddddbe4",
+    "08e04db4-393b-4b6b-8ac9-b04ebd247392",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 10,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [
+    8,
+    9
+   ],
+   "single_search_result_id": "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+   "new_in_pass": 9,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 91
+  },
+  {
+   "p": 11,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "0c67bb9f-5ab3-4bf1-b917-477d10a20fb2",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "9e10f7fe-84df-49d1-bbf9-bc3c21ea52b4",
+    "805d67d4-8046-4979-964b-ea433ec13832",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "b77c8e20-0211-4e1f-8c43-930700bcc841"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 11,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [
+    9
+   ],
+   "single_search_result_id": "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+   "new_in_pass": 2,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 93
+  },
+  {
+   "p": 12,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 12,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 93
+  },
+  {
+   "p": 13,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 13,
+    "perPage": 10,
+    "totalItems": 0
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 93
+  },
+  {
+   "p": 14,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 14,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 93
+  },
+  {
+   "p": 15,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "1cc646c9-a03f-4930-ac60-31823071c935",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "28642893-682d-40c0-856a-513687a7c6c7",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "3f259fb5-2737-49de-b5be-69edbdcee2a7",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "805d67d4-8046-4979-964b-ea433ec13832"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 15,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+   "new_in_pass": 1,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 94
+  },
+  {
+   "p": 16,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 16,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 94
+  },
+  {
+   "p": 17,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "6a6b0c6e-f59c-4c79-a7cc-fdbae04493eb",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "1c7e3ee8-a134-4bd5-933e-41b47b908cc1",
+    "1e647139-0e3c-4962-929b-b93fe3df8cce",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e",
+    "8680efae-9415-4b3e-b255-27727ae3917b",
+    "13d6507f-9375-4b91-b54d-602d34363f68",
+    "b77c8e20-0211-4e1f-8c43-930700bcc841",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "29df8610-d387-4f89-ba68-816263702fe4"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 17,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "6a6b0c6e-f59c-4c79-a7cc-fdbae04493eb",
+   "new_in_pass": 4,
+   "new_vs_previous_passes": 2,
+   "cum_unique": 98
+  },
+  {
+   "p": 18,
+   "http": 200,
+   "n": 10,
+   "ids": [
+    "65549099-8e9f-4686-8b97-03d63202374f",
+    "1dc0f869-d4e5-48f7-acdd-fe015d47953d",
+    "08e04db4-393b-4b6b-8ac9-b04ebd247392",
+    "875f11bb-d377-4846-93a8-9ed944ec0928",
+    "805d67d4-8046-4979-964b-ea433ec13832",
+    "0cf0933b-03c5-4a5c-b299-e8081ddddbe4",
+    "aed6eb2c-ea0a-4c6f-b4d8-eec8441c8b55",
+    "c5a0ddb0-d37c-4727-8f03-731d3518b6f4",
+    "41d0ad55-5630-42bc-a066-c7f3f5571d99",
+    "d5f7a3c7-1369-4890-b082-c65cc960ca0e"
+   ],
+   "advertised": [],
+   "pagination": {
+    "p": 18,
+    "perPage": 10,
+    "totalItems": 1799
+   },
+   "pager_links": [],
+   "single_search_result_id": "65549099-8e9f-4686-8b97-03d63202374f",
+   "new_in_pass": 2,
+   "new_vs_previous_passes": 1,
+   "cum_unique": 100
+  },
+  {
+   "p": 19,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 19,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 100
+  },
+  {
+   "p": 20,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 20,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null,
+   "new_in_pass": 0,
+   "new_vs_previous_passes": 0,
+   "cum_unique": 100
+  }
+ ],
+ "rows_extra": [
+  {
+   "p": 30,
+   "http": 200,
+   "n": 0,
+   "ids": [],
+   "advertised": [],
+   "pagination": {
+    "p": 30,
+    "perPage": 10,
+    "totalItems": 5
+   },
+   "pager_links": [],
+   "single_search_result_id": null
+  }
+ ],
+ "task4_verdict": [
+  "totalItems=180, perPage=10",
+  "totalItems*perPage ~ 1796 -> вероятно СТРАНИЦЫ (totalItems = число страниц)",
+  "макс. p в ссылках пагинатора: 9"
+ ],
+ "distinct_pagination_objects": [
+  "{\"p\": 0, \"perPage\": 10, \"totalItems\": 180}",
+  "{\"p\": 1, \"perPage\": 10, \"totalItems\": 360}",
+  "{\"p\": 10, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 11, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 12, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 12, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 13, \"perPage\": 10, \"totalItems\": 0}",
+  "{\"p\": 13, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 14, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 15, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 16, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 16, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 17, \"perPage\": 10, \"totalItems\": 0}",
+  "{\"p\": 17, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 18, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 18, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 19, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 19, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 2, \"perPage\": 10, \"totalItems\": 540}",
+  "{\"p\": 20, \"perPage\": 10, \"totalItems\": 1799}",
+  "{\"p\": 20, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 3, \"perPage\": 10, \"totalItems\": 720}",
+  "{\"p\": 30, \"perPage\": 10, \"totalItems\": 5}",
+  "{\"p\": 4, \"perPage\": 10, \"totalItems\": 900}",
+  "{\"p\": 5, \"perPage\": 10, \"totalItems\": 1080}",
+  "{\"p\": 6, \"perPage\": 10, \"totalItems\": 1260}",
+  "{\"p\": 7, \"perPage\": 10, \"totalItems\": 1439}",
+  "{\"p\": 8, \"perPage\": 10, \"totalItems\": 1619}",
+  "{\"p\": 9, \"perPage\": 10, \"totalItems\": 5}"
+ ]
+}
